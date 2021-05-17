@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently an undergard at Adani Institute of Infrastructure Engineering.
+- 🔭 I’m currently an undergrad at Adani Institute of Infrastructure Engineering.
 - 🌱 I’m self taught programmer.
-- 👀 I'm interest in Data Science.
+- 👀 I'm interested in Data Science.
 - ⚡ Fun fact: I love to paint and read books.
 
