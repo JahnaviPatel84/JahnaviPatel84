@@ -1,13 +1,12 @@
-Hi there 👋
+Data Science Enthusiast | ML Practitioner | Lifelong Learner
 
-🔭 I’m currently a master's student in Data Science at UC San Diego (UCSD).
+I’m a Data Science graduate student at UCSD, passionate about turning data into actionable insights and scalable solutions. My projects span machine learning, NLP, real-time data pipelines, and explainable AI. I thrive on solving real-world problems—whether it’s anomaly detection in sensor data or building intelligent recommendation systems.
 
-🌱 I'm a self-taught programmer with a strong passion for machine learning and statistics.
+I’m always exploring new technologies, experimenting with advanced techniques, and refining my past projects to make them better and more impactful. Continuous learning and hands-on application drive my journey—check out my repositories to see what I’m currently building or improving!
 
-👀 My research interests focus on applying machine learning and statistical methods to solve real-world problems, including predictive modeling, and data-driven decision-making.
+Let’s connect and collaborate on data-driven innovations!
 
-⚡ Fun fact: I love to paint and read books, often drawing inspiration from creative processes to fuel my technical work.
 
-💼 Currently, I’m working on projects related to causal discovery in finance, and statistical modeling to improve predictive accuracy and model transparency.
+Contact: jahnavipatel484@gmail.com
+LinkedIn: https://www.linkedin.com/in/jahnavi-patel-29a09a1ba/
 
-📚 I’m focused on advancing my understanding of machine learning algorithms, statistical analysis, and how these tools can be used to extract insights from complex datasets.
